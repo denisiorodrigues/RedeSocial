@@ -10,7 +10,7 @@ export function App() {
   return (
     <div>
       <Header />
-      <div className={styles.warapper} >
+      <div className={styles.wrapper} >
         <Sidebar />
         <main>
           <Post
